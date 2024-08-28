@@ -11,16 +11,39 @@ theme:
   features:
     # - navigation
     - navigation.tabs
+  icon:
+    logo: material/food-turkey
+  favicon: images/food-turkey.ico
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
 
 plugins:
   - blog:
-      archive: false
+      archive: true
       blog_dir: .
       categories_allowed:
         - Autumn
         - Spring
         - Summer
         - Winter
+      pagination: true
       post_dir: "{blog}/recipes"
       post_excerpt: required
       post_readtime: false
