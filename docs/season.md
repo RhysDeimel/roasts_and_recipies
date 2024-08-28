@@ -53,31 +53,155 @@ hide:
 === "Summer"
     
     ## Veggies
-    | Method      | Description                          |
-    | ----------- | ------------------------------------ |
+    | December      | January       | February         |
+    |---------------|---------------|------------------|
+    | Asparagus     | Asparagus     | Beans: Butter    |
+    | Beans: Green  | Beans: Green  | Beans: Flat      |
+    | Beans: Flat   | Beans: Flat   | Beans: Green     |
+    | Beans: Butter | Beans: Butter | Beans: Snake     |
+    | Capsicum      | Capsicums     | Capsicum         |
+    | Celery        | Celery        | Celery           |
+    | Cucumbers     | Cucumbers     | Chillies         |
+    | Eggplant      | Eggplant      | Chokos           |
+    | Lettuce       | Lettuce       | Cucumbers        |
+    | Mushrooms     | Mushrooms     | Eggplant         |
+    | Onions        | Onions        | Lettuce          |
+    | Peas          | Okra          | Mushrooms        |
+    | Radish        | Peas          | Onions           |
+    | Spinach       | Potatoes      | Okra             |
+    | Sweetcorn     | Radish        | Peas: Sugar snap |
+    | Tomatoes      | Spinach       | Radish           |
+    | Watercress    | Sweetcorn     | Spinach          |
+    | Zucchini      | Tomatoes      | Squash           |
+    |               | Zucchini      | Sweetcorn        |
+    |               | Tomatoes      |
+    |               | Zucchini      |
 
     ## Fruit
-    | Method      | Description                          |
-    | ----------- | ------------------------------------ |
-    
+    | December                      | January           | February              |
+    |-------------------------------|-------------------|-----------------------|
+    | Apricots                      | Apricots          | Avocados              |
+    | Banana                        | Avocados          | Berries: Blueberries  |
+    | Berries: Blackberries         | Bananas           | Berries: Raspberries  |
+    | Berries: Blueberries          | Blackberries      | Berries: Strawberries |
+    | Berries: Raspberries          | Blueberries       | Figs                  |
+    | Berries: Red & White Currants | Raspberries       | Grapes                |
+    | Berries: Strawberries         | Strawberries      | Limes                 |
+    | Cherries                      | Cherries          | Lychees               |
+    | Grapes                        | Grapes            | Mangoes               |
+    | Lychees                       | Limes             | Mangosteens           |
+    | Mangoes                       | Lychees           | Melons                |
+    | Melons                        | Mangoes           | Nectarines            |
+    | Nectarines                    | Melons            | Oranges: Valencia     |
+    | Oranges: Valencia             | Nectarines        | Passionfruit          |
+    | Papaya                        | Oranges: Valencia | Peaches               |
+    | Passionfruit                  | Passionfruit      | Pears: Williams       |
+    | Papaw                         | Peaches           | Pineapples            |
+    | Peaches                       | Pears: Williams   | Plums                 |
+    | Pineapple                     | Pears: Paradise   | Prickly Pears         |
+    |                               | Pineapple         | Rambutans             |
+    |                               | Plums             |                       |
+    |                               | Rambutans         |                       |
+
 
 === "Autumn"
 
     ## Veggies
-    | Method      | Description                          |
-    | ----------- | ------------------------------------ |
+    | March                  | April                  | May                    |
+    |------------------------|------------------------|------------------------|
+    | Asian greens: Bok Choy | Asian greens: Bok Choy | Asian greens: Bok Choy |
+    | Beans                  | Beans                  | Broccoli               |
+    | Broccoli               | Broccoli               | Brussels sprouts       |
+    | Capsicums              | Brussels sprouts       | Cabbage                |
+    | Chestnuts              | Cabbage                | Carrots                |
+    | Cucumbers              | Capsicums              | Cauliflower            |
+    | Eggplant               | Cauliflower            | Celery                 |
+    | Eschallots             | Chestnuts              | Celeriac               |
+    | Kale                   | Eggplant               | Chestnuts              |
+    | Lettuce                | Eschallots             | Eggplant               |
+    | Mushrooms              | Fennel                 | Fennel                 |
+    | Okra                   | Kale                   | Kale                   |
+    | Onions                 | Leeks                  | Ginger                 |
+    | Potatoes               | Mushrooms              | Leeks                  |
+    | Pumpkin                | Okra                   | Mushrooms              |
+    | Sweetcorn              | Potatoes               | Okra                   |
+    | Swiss chard            | Pumpkin                | Parsnips               |
+    | Tomatoes               | Silverbeet             | Silverbeet             |
+    | Witlof                 | Spinach                | Spinach                |
+    | Zucchini               | Swiss chard            | Sweet potato           |
+    |                        | Turnips                | Swiss chard            |
+    |                        | Watercress             | Turnips                |
 
     ## Fruit
-    | Method      | Description                          |
-    | ----------- | ------------------------------------ |
+    | March             | April               | May                 |
+    |-------------------|---------------------|---------------------|
+    | Apples            | Apples              | Apples              |
+    | Bananas           | Avocados            | Avocados            |
+    | Dates             | Bananas             | Bananas             |
+    | Figs              | Custard apples      | Custard apples      |
+    | Finger limes      | Dates               | Dates               |
+    | Grapes            | Dragon Fruit        | Grapes              |
+    | Guava             | Finger limes        | Kiwifruit           |
+    | Kiwifruit         | Grapes              | Lemons              |
+    | Limes             | Guava               | Mandarins: Imperial |
+    | Mangosteens       | Kiwifruit           | Nashi               |
+    | Nashi             | Limes               | Oranges: Navel      |
+    | Oranges: Valencia | Mandarins: Imperial | Pears               |
+    | Passionfruit      | Nashi               | Persimmons          |
+    | Papaw             | Pears               | Pomegranates        |
+    | Pears             | Passionfruit        | Quinces             |
+    | Plums             | Persimmons          | Rhubarb             |
+    | Pomegranates      | Pomegranates        |
+    | Quinces           | Quinces             |
+    | Tamarillo         | Tamarillo           |
 
 
 === "Winter"
 
     ## Veggies
-    | Method      | Description                          |
-    | ----------- | ------------------------------------ |
+    | June                 | July                 | August               |
+    |----------------------|----------------------|----------------------|
+    | Beetroot             | Beetroot             | Beetroot             | 
+    | Broccoli             | Broccoli             | Broccoli             | 
+    | Brussels sprouts     | Brussels sprouts     | Brussels sprouts     | 
+    | Cabbage              | Cabbage              | Cabbage              | 
+    | Carrots              | Carrots              | Carrots              | 
+    | Cauliflower          | Cauliflower          | Cauliflower          | 
+    | Celeriac             | Celeriac             | Celeriac             | 
+    | Celery               | Celery               | Celery               | 
+    | Fennel               | Fennel               | Fennel               | 
+    | Jerusalem artichokes | Jerusalem artichokes | Jerusalem artichokes | 
+    | Kale                 | Kale                 | Kale                 | 
+    | Kohlrabi             | Kohlrabi             | Kohlrabi             | 
+    | Leeks                | Leeks                | Leeks                | 
+    | Onions               | Onions               | Okra                 | 
+    | Parsnips             | Parsnips             | Onions               | 
+    | Potatoes             | Potatoes             | Parsnips             | 
+    | Pumpkin              | Pumpkin              | Potatoes             | 
+    | Radicchio            | Radicchio            | Pumpkin              | 
+    | Silverbeet           | Silverbeet           | Silverbeet           | 
+    | Spinach              | Spinach              | Spinach              | 
+    | Swede                | Swede                | Swede                | 
+    | Sweet potato         | Sweet potato         | Sweet potato         | 
+    | Turnips              | Turnips              | Turnips              |
 
     ## Fruit
-    | Method      | Description                          |
-    | ----------- | ------------------------------------ |
+    | June                     | July                     | August         |
+    |--------------------------|--------------------------|----------------|
+    | Apples                   | Apples                   | Apples         |
+    | Avocados                 | Avocados                 | Avocados       |
+    | Banana                   | Banana                   | Banana         |
+    | Custard apples           | Custard apples           | Cumquat        |
+    | Dates                    | Dates                    | Grapefruit     |
+    | Grapefruit               | Grapefruit               | Kiwifruit      |
+    | Kiwifruit                | Kiwifruit                | Lemons         |
+    | Lemons                   | Lemons                   | Mandarins      |
+    | Mandarins                | Mandarins                | Oranges: Blood |
+    | Nashi                    | Nashi                    | Oranges: Navel |
+    | Oranges: Cara Cara Navel | Oranges: Cara Cara Navel | Pomelo         |
+    | Oranges: Navel           | Oranges: Navel           | Rhubarb        |
+    | Passionfruit             | Pomelo                   | Strawberries   |
+    | Pears                    | Quince                   | Tangelos       |
+    | Pomelo                   | Rhubarb                  |
+    | Quince                   | Strawberries             |
+    | Rhubarb                  | Tangelos                 |
