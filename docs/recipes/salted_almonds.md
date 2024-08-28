@@ -5,8 +5,8 @@ tags:
   - almonds
   - snack
 time:
-  - prep: 10 minutes
-  - cook: 20 minutes 
+  prep: 10 minutes
+  cook: 20 minutes
 ---
 
 # Salted Almonds
