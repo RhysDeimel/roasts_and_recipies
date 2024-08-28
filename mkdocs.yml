@@ -1,12 +1,13 @@
-site_name: Rhys' Recipes
+site_name: Recipes
 site_description: an example blog set up following the tutorial
-site_url: http://www.example.com
+site_url: http://recipes.ragedriven.dev
 
 nav:
   - What's in Season: season.md
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     # - navigation
     - navigation.tabs
@@ -25,3 +26,9 @@ plugins:
       post_readtime: false
   - search
   - tags
+
+markdown_extensions:
+  - tables
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
