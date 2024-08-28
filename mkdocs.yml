@@ -1,9 +1,11 @@
 site_name: Recipes
-site_description: an example blog set up following the tutorial
+site_description: Food blog with a collection of recipes that I've tested and liked enough to keep.
 site_url: http://recipes.ragedriven.dev
+
 
 nav:
   - What's in Season: season.md
+
 
 theme:
   name: material
@@ -49,6 +51,7 @@ plugins:
       post_readtime: false
   - search
   - tags
+
 
 markdown_extensions:
   - tables
