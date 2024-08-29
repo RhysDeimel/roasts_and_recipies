@@ -1,4 +1,3 @@
-black
-Flask
-pytest
-selenium
+mkdocs
+mkdocs-material
+pyspelling

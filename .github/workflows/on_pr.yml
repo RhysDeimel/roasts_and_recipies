@@ -1,0 +1,26 @@
+on:
+  pull_request:
+    branches: [ "master" ]
+    paths-ignore:
+      - '.github/**'
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Spellcheck
+        uses: rojopolis/spellcheck-github-actions@0.41.0
+
+  test_build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - name: Test site generation
+        run: mkdocs build --clean
+
