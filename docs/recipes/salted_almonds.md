@@ -10,7 +10,7 @@ time:
 ---
 
 # Salted Almonds
-Super simple and easy recipe for salted almonds. A perfect snack for parties, casual get-togethers,
+Super simple and easy recipe for salted almonds. A perfect snack for parties, casual drop-ins,
 or fixing that salt craving.
 <!-- more -->
 ![Salted Almonds](images/salted_almonds.jpg)
