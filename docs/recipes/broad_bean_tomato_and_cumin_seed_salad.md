@@ -3,7 +3,10 @@ date:
   created: 2024-09-02
 tags:
   - tomato
-  - snack
+  - beans
+  - salad
+  - spring onion
+  - preserved lemon
 ---
 
 # Broad Bean, Tomato, and Cumin Seed Salad
