@@ -12,15 +12,13 @@ time:
 ---
 
 # Authentic Carbonara
-Super simple and easy recipe for salted almonds. A perfect snack for parties, casual drop-ins,
-or fixing that salt craving.
+Delightfully simple and delicious, this creamy pasta recipe will make you think you are in Rome.
 <!-- more -->
 ![Carbonara](images/carbonara.jpg)
 
 ## Ingredients
 - 300g pasta (Bucatini, Spaghetti, Rigatoni)
 - 120g guanciale, sliced
-- 200ml boiling water
 - 30g pecorino romano, grated
 - 20g grana padano, grated
 - 2 large eggs, yolks only
