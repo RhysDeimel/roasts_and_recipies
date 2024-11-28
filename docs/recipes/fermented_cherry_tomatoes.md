@@ -22,8 +22,8 @@ The finished fermented tomatoes have a slight effervescence and amazing flavour!
 - 1/4 tsp black peppercorns
 - 1/4 tsp coriander seeds
 - 1/4 tsp mustard seeds
-- 1 L water
-- 3 tbsp salt
+- 1 L water (dechlorinated)
+- 3 tbsp salt (non-iodised)
 
 ??? warning
 
