@@ -49,9 +49,8 @@ hide:
     |                         | Pomelo            | Papaw             |
     |                         | Tangelos          |                   |
 
-
 === "Summer"
-    
+
     ## Veggies
     | December      | January       | February         |
     |---------------|---------------|------------------|
@@ -74,8 +73,6 @@ hide:
     | Watercress    | Sweetcorn     | Spinach          |
     | Zucchini      | Tomatoes      | Squash           |
     |               | Zucchini      | Sweetcorn        |
-    |               | Tomatoes      |
-    |               | Zucchini      |
 
     ## Fruit
     | December                      | January           | February              |
@@ -102,7 +99,6 @@ hide:
     |                               | Pineapple         | Rambutans             |
     |                               | Plums             |                       |
     |                               | Rambutans         |                       |
-
 
 === "Autumn"
 
@@ -155,34 +151,33 @@ hide:
     | Quinces           | Quinces             |
     | Tamarillo         | Tamarillo           |
 
-
 === "Winter"
 
     ## Veggies
     | June                 | July                 | August               |
     |----------------------|----------------------|----------------------|
-    | Beetroot             | Beetroot             | Beetroot             | 
-    | Broccoli             | Broccoli             | Broccoli             | 
-    | Brussels sprouts     | Brussels sprouts     | Brussels sprouts     | 
-    | Cabbage              | Cabbage              | Cabbage              | 
-    | Carrots              | Carrots              | Carrots              | 
-    | Cauliflower          | Cauliflower          | Cauliflower          | 
-    | Celeriac             | Celeriac             | Celeriac             | 
-    | Celery               | Celery               | Celery               | 
-    | Fennel               | Fennel               | Fennel               | 
-    | Jerusalem artichokes | Jerusalem artichokes | Jerusalem artichokes | 
-    | Kale                 | Kale                 | Kale                 | 
-    | Kohlrabi             | Kohlrabi             | Kohlrabi             | 
-    | Leeks                | Leeks                | Leeks                | 
-    | Onions               | Onions               | Okra                 | 
-    | Parsnips             | Parsnips             | Onions               | 
-    | Potatoes             | Potatoes             | Parsnips             | 
-    | Pumpkin              | Pumpkin              | Potatoes             | 
-    | Radicchio            | Radicchio            | Pumpkin              | 
-    | Silverbeet           | Silverbeet           | Silverbeet           | 
-    | Spinach              | Spinach              | Spinach              | 
-    | Swede                | Swede                | Swede                | 
-    | Sweet potato         | Sweet potato         | Sweet potato         | 
+    | Beetroot             | Beetroot             | Beetroot             |
+    | Broccoli             | Broccoli             | Broccoli             |
+    | Brussels sprouts     | Brussels sprouts     | Brussels sprouts     |
+    | Cabbage              | Cabbage              | Cabbage              |
+    | Carrots              | Carrots              | Carrots              |
+    | Cauliflower          | Cauliflower          | Cauliflower          |
+    | Celeriac             | Celeriac             | Celeriac             |
+    | Celery               | Celery               | Celery               |
+    | Fennel               | Fennel               | Fennel               |
+    | Jerusalem artichokes | Jerusalem artichokes | Jerusalem artichokes |
+    | Kale                 | Kale                 | Kale                 |
+    | Kohlrabi             | Kohlrabi             | Kohlrabi             |
+    | Leeks                | Leeks                | Leeks                |
+    | Onions               | Onions               | Okra                 |
+    | Parsnips             | Parsnips             | Onions               |
+    | Potatoes             | Potatoes             | Parsnips             |
+    | Pumpkin              | Pumpkin              | Potatoes             |
+    | Radicchio            | Radicchio            | Pumpkin              |
+    | Silverbeet           | Silverbeet           | Silverbeet           |
+    | Spinach              | Spinach              | Spinach              |
+    | Swede                | Swede                | Swede                |
+    | Sweet potato         | Sweet potato         | Sweet potato         |
     | Turnips              | Turnips              | Turnips              |
 
     ## Fruit
