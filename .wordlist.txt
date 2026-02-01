@@ -2,6 +2,9 @@ al
 Bok
 Bucatini
 Carbonara
+cham
+Cham
+chargrill
 Chokos
 Choy
 config
@@ -17,6 +20,8 @@ Mangosteens
 MKDocs
 Murcot
 Nashi
+nuoc
+Nuoc
 padano
 pancetta
 Papaw
